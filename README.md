@@ -4,3 +4,5 @@ I am learning Git and GitHub step by step.
 Today I am practicing the edit, stage and commit workflow.
 I am getting more comfortable with Git.
 I am getting more comfortable with Git.
+# Day 5
+Learning GitHub remote, push and pull.s
